@@ -2,7 +2,8 @@
 
 Welcome to the repository for the DevRel Jam meetup happening in Hyderabad in August, co-located with KubeCon India 2025.
 
-- **Date and Time:** [To Be announced]
+- **Date:** Thursday, 7th August 2025
+- **Time:** 6 PM to 9 PM IST
 - **Location:** Hyderabad, India 🇮🇳
 - **Event Page:** https://lu.ma/umwjgbi2
 
