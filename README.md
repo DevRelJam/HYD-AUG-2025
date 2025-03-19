@@ -7,7 +7,7 @@ Welcome to the repository for the DevRel Jam meetup happening in Hyderabad in Au
 - **Location:** Hyderabad, India 🇮🇳
 - **Event Page:** https://lu.ma/umwjgbi2
 
-![HYD-AUG-2025](https://github.com/user-attachments/assets/2b3990f7-905d-4a44-a51e-b63052149dc3)
+![HYD-AUG-2025](https://github.com/DevRelJam/.github/blob/main/assets/HYD-AUG-2025.png)
 
 ## Agenda 📋
 
