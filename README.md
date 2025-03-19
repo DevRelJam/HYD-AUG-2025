@@ -1,6 +1,6 @@
 # DevRel Jam Hyderabad - August 2025
 
-Welcome to the repository for the DevRel Jam meetup happening in Hyderabad, India, in August 2025, co-located with KubeCon India 2025.
+Welcome to the repository for the DevRel Jam meetup happening in Hyderabad in August, co-located with KubeCon India 2025.
 
 - **Date and Time:** [To Be announced]
 - **Location:** Hyderabad, India 🇮🇳
